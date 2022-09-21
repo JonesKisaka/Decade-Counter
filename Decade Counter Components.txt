@@ -1,0 +1,14 @@
+Decade Counter.
+
+COMPONENTS.
+
+NE555P chip
+CD4017BE chip
+100k ohm resistor.
+2-330 ohm resistor.
+1k ohm resistor.
+1- 1uF Electrolytic Capacitor
+LED of any color to show the clock pulse.
+2-Pin Terminal Block
+5-9V power supply.
+9 Red LEDs
